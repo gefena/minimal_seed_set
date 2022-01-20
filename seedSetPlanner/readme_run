@@ -1,0 +1,3 @@
+run seedSetPlanner
+----------------------------
+java -jar ssp.jar "seedSetPlanner/domain.pddl" "seedSetPlanner/problem.pddl"
