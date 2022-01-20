@@ -14,5 +14,5 @@ independence between sub-goals and can solve it optimally by reducing the branch
 - Paper: https://www.cs.bgu.ac.il/~avitang/files/seedsetPaper.pdf
 - Slides: https://www.cs.bgu.ac.il/~avitang/files/seedSetPresentation.pdf
 
-### run seedSetPlanner:
+### Run seedSetPlanner:
 java -jar ssp.jar "seedSetPlanner/domain.pddl" "seedSetPlanner/problem.pddl"
