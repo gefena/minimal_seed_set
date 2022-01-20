@@ -1,6 +1,5 @@
 # The Minimal Seed Set Problem
 
-Abstract:
 A planning solver for the minimal seed-set problem, which originates in systems biology.
 The minimal seed-set problem is defined as follows:
 given a description of the metabolic reactions of an organism, characterize the minimal set of nutrients with which it
