@@ -11,8 +11,8 @@ The solver is a simple uninformed search algorithm that exploits inherent
 independence between sub-goals and can solve it optimally by reducing the branching factor drastically.
 
 ### Links:
-- Paper: https://www.cs.bgu.ac.il/~avitang/files/seedsetPaper.pdf
-- Slides: https://www.cs.bgu.ac.il/~avitang/files/seedSetPresentation.pdf
+- Paper: https://ai.dmi.unibas.ch/research/reading_group/gefen-brafman-icaps2011.pdf
+- Data files: https://github.com/gefena/minimal_seed_set/blob/main/PDDL_Files_Kegg.zip
 
 ### Run seedSetPlanner:
 java -jar ssp.jar "seedSetPlanner/domain.pddl" "seedSetPlanner/problem.pddl"
